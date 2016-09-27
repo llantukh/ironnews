@@ -1,0 +1,86 @@
+.container {
+  width: 80%;
+  margin: 0px auto;
+}
+nav {
+  background-color: grey;
+}
+
+.logo{
+  color: white;
+  padding-left: 5px;
+  padding-right: 6px;
+  border: 1px solid white;
+  padding:
+
+}
+
+.button{
+  padding-left:165px;
+}
+
+.article-title{
+  text-decoration: none;
+  color: black;
+  font-size: 14px
+
+}
+
+.website{
+  text-decoration: none;
+  color: grey;
+  font-size: 12px
+}
+
+.details{
+  text-decoration: none;
+  color: grey;
+  font-size: 12px;
+  padding-left: 13px;
+}
+
+.author{
+  text-decoration: none;
+  color: grey;
+  font-size: 12px
+}
+
+.comments{
+  text-decoration: none;
+  color: grey;
+  font-size: 12px
+}
+
+.content {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: lightgrey;
+  padding-bottom: 13px;
+  padding-top: 15px;
+}
+
+.footer{
+  border-top: 1px solid gray;
+  margin: 0px;
+  background-color: lightgrey;
+  font-size: 14px;
+  padding-top: 10px;
+}
+
+.box{
+  padding: 10px;
+  padding-left: 150px;
+}
+
+li{
+  color: grey;
+}
+
+.last {
+  margin-top: 20px;
+  list-style: none;
+}
+
+.last > span {
+  color: black;
+}
